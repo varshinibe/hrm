@@ -7,6 +7,7 @@ public class ModifyTest {
 	public void create()
 	{
 		System.out.println("-created-");
+			System.out.println("-created-");
 	}
 	@Test
 	public void modify() {
